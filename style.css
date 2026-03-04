@@ -11,7 +11,14 @@ html, body {
   overflow-x: hidden;
   max-width: 100%;
 }
-
+#stars, #stars2, #stars3 {
+  position: fixed;
+  width: 1px;
+  height: 1px;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+}
 .heading-section{
   text-align: center;
 }
