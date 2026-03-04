@@ -923,7 +923,31 @@ padding:0px;
     --progress-bar-height: 120px;
     --font-size: 1rem;
   }
+   .mo {
+ 
+    width: 310px;
+    height:700px;
+    display: grid;
+    /* margin:5px; */
   
+  }
+  .mo img{
+    width:310px;
+    height:250px;
+    border-radius: 8px;
+    object-fit: cover;
+    
+      margin-left: 10px;
+    }
+ .project-list li{
+  padding :20px;
+ margin-top:0px;
+ margin-bottom:0px;
+ margin-left:30px;
+ margin-right:30px;
+
+ }
+
   .progress-container {
     gap: 10px;
   }
@@ -966,4 +990,7 @@ padding:0px;
  margin-left:200px;
  margin-right:200px;
 }
+
+
+
 }
