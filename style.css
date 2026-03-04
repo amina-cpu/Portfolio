@@ -288,7 +288,7 @@ html, body {
   width: fit-content;
   height: 400px;
   display: flex;
-  margin:20px;
+  margin:10px;
   margin: 0 auto; 
 }
 .mo img{
@@ -821,8 +821,8 @@ body {
   padding :20px;
  margin-top:0px;
  margin-bottom:0px;
- margin-left:5px;
- margin-right:5px;
+ margin-left:20px;
+ margin-right:20px;
 
  }
  .project-list{
